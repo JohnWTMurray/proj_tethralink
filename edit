@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+vim -p src/main.cpp include/tethralink.hpp

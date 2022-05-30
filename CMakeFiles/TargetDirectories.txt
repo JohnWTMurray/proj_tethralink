@@ -1,0 +1,3 @@
+/home/risk/linked_lists/CMakeFiles/project.dir
+/home/risk/linked_lists/CMakeFiles/edit_cache.dir
+/home/risk/linked_lists/CMakeFiles/rebuild_cache.dir

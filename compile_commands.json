@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/risk/linked_lists",
+  "command": "/usr/bin/c++  -I/home/risk/linked_lists/include  -std=c++20 -g -o CMakeFiles/project.dir/src/main.cpp.o -c /home/risk/linked_lists/src/main.cpp",
+  "file": "/home/risk/linked_lists/src/main.cpp"
+},
+{
+  "directory": "/home/risk/linked_lists",
+  "command": "/usr/bin/c++  -I/home/risk/linked_lists/include  -std=c++20 -g -o CMakeFiles/project.dir/src/tethralink.cpp.o -c /home/risk/linked_lists/src/tethralink.cpp",
+  "file": "/home/risk/linked_lists/src/tethralink.cpp"
+}
+]
